@@ -1,0 +1,3 @@
+@include "std/stdlib.so"
+
+"Hello, World!\n" puts
