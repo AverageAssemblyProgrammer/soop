@@ -5,7 +5,7 @@ By the way, soop is still a developing language, and anything can change at any 
 Soop will be ported over to C/C++ later on, so it can be a little faster....
 
 
-##Quick Start
+## Quick Start
 ```
 $ ./sl.py help
 $ ./sl.py examples/hello.sl
