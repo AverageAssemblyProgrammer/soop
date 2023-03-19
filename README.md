@@ -13,11 +13,11 @@ $ ./sl.py examples/hello.sl
 ```
 
 ## Goals
-
-[ ] - Turing complete
-[ ] - Graphics
+- [ ] Turing complete
+- [ ] Graphics
+- [ ] Static type checking
 
 ## Future Goals
-
-[ ] - Optimized
-[ ] - Compiled to machine code or assembly
+- [ ] Optimized
+- [ ] Compiled to machine code or assembly
+- [ ] Windows/MacOS compatable
